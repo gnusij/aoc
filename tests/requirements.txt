@@ -1,0 +1,6 @@
+--editable .
+pytest
+pytest-cov
+pytest-mock
+pytest-freezer
+requests-mock
